@@ -1,6 +1,8 @@
 Pedro Santana Prates
 Caio Bastos Buteri
 Vinícius Lima
-Este projeto será uma aplicação que iremos criar
-para facilitar o acesso à instituições e encontros
-de doações com nome de MultirON.
+MutirON é um aplicativo que tem como objetivo 
+facilitar a organização de ações sociais 
+voluntárias, mobilizadas por grupos de ONGs ou 
+pessoas físicas em prol de ajudar uma determinada 
+causa social.
